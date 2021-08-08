@@ -25,6 +25,7 @@ LaTex
     3.1. DATA TRANSFORMATION
 
     3.2. DIMENSIONALITY REDUCTION
+
         3.2.1. PCA
 
         3.2.2. MDS
@@ -32,12 +33,13 @@ LaTex
         3.2.3. TNSE
 
     3.3. PREDICTION MODELS
+
         3.3.1. RAMDOM FOREST
 
         3.3.2. NEURAL NETWORK
 
         3.3.3. KNN
-
+        
         3.3.4. COX
 
 4. RESULT && DISCUSSION
