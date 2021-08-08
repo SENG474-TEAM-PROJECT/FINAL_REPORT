@@ -2,7 +2,7 @@
 
 ## FINAL REPORT SYTLE FORMAT:
 
-NeurIPS 2020 Style
+[NeurIPS 2020 Style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles)
 
 LaTex
 
