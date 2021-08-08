@@ -22,11 +22,11 @@ LaTex
 
 3. APPROACH
 
-    3.1. DATA TRANSFORMATION
+    3.1. DATA TRANSFORMATION (ROY)
 
-    3.2. DIMENSIONALITY REDUCTION
+    3.2. DIMENSIONALITY REDUCTION (HANG,WUYU)
 
-        3.2.1. PCA
+        3.2.1. PCA 
 
         3.2.2. MDS
         
@@ -34,13 +34,13 @@ LaTex
 
     3.3. PREDICTION MODELS
 
-        3.3.1. RAMDOM FOREST
+        3.3.1. RAMDOM FOREST (ALEX)
 
-        3.3.2. NEURAL NETWORK
+        3.3.2. NEURAL NETWORK (HANG,WUYU)
 
-        3.3.3. KNN
+        3.3.3. KNN (ROY)
         
-        3.3.4. COX
+        3.3.4. COX (ROY)
 
 4. RESULT && DISCUSSION
 
